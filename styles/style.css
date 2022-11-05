@@ -9,7 +9,6 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
   padding: 0;
 }
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -19,7 +18,6 @@
   display: flex;
   margin: 0 auto;
   padding: 0;
-
   /* выше установили ограничения для секции */
 }
 .logo__place_header {
@@ -30,7 +28,6 @@
   left: 64px;
   margin: 0 auto;
   padding: 0;
-  
 }
 .header__title {
   width: 730px;
@@ -39,7 +36,6 @@
   line-height: 96px;
   font-size: 102px;
   font-weight: 600;
- 
 }
 .header__subtitle {
   width: 388px;
@@ -113,7 +109,6 @@
   font-size: 24px;
   font-weight: normal;
 }
-
 .two-columns__span-accent{
   line-height: 34px;
   font-size: 24px;
@@ -135,7 +130,6 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
-
 }
 .section-subtitle {
   margin: 0;
@@ -158,8 +152,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 100px;
-  list-style-type: none;
-  
+  list-style-type: none; 
 }
 .table__cell {
   width: 250px;
@@ -231,7 +224,6 @@
   background-color: #1f1f1f;
   display: flex;
   flex-direction: column;
-
 }
 .section-title_theme_dark {
   width: 60%;
@@ -254,7 +246,6 @@
   font-size: 24px;
   font-weight: normal;
   text-align: center;
- 
 }
 .table_theme_dark {
   margin-bottom: 90px;
@@ -275,7 +266,6 @@
   border-spacing: 0;
   padding-top: 80px;
 }
-
 .table__heading_theme_dark {
   color: #f2f2f2;
   line-height: 1.15;
@@ -316,7 +306,6 @@
   display: flex;
   justify-content: space-around;
   position: relative;
-
 }
 .footer__column_content_copyright {
   color: #f2f2f2;
@@ -345,8 +334,6 @@
   color: #f2f2f2;
   display: flex;
   flex-direction:column;
-
-  
 }
 .footer__column-heading {
   color: #f2f2f2;
@@ -362,7 +349,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-
 }
 .footer__column-link {
   color: #f2f2f2;
