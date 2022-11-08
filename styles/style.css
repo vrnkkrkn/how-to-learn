@@ -22,7 +22,7 @@
   /* выше установили ограничения для секции */
 }
 .logo__place_header {
-  margin: 0 ;
+  margin: 0;
   padding: 0;
   width: 228px;
   height: 32px;
@@ -31,7 +31,7 @@
   left: 64px;
 }
 .header__title {
-  margin: 0 ;
+  margin: 0;
   padding: 0;
   width: 730px;
   align-self:center;
@@ -50,8 +50,6 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin: 0 auto;
-  padding: 0;
 }
 .header__link{
   color: #2f80ed;
