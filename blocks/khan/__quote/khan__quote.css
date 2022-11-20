@@ -5,5 +5,6 @@
     font-size: 24px;
     font-weight: normal;
     margin-top: 50px;
-    width: 790px;
+    max-width: 790px;
+    width: 100%;
   }
