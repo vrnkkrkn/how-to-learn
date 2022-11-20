@@ -1,0 +1,11 @@
+.resources__link {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 270px;
+      height: 38px;
+  }
+  .resources__link:hover {
+    opacity: 0;
+    transition: opacity 5s ease;
+  }
